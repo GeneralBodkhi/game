@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 57bb621e5da662b45aeb1609b2dba3cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: attachment_vm_sm_papa90_receiver_v2_LOD0
+    100002: j_bolt
+    100004: j_gun
+    100006: j_mag_rel
+    100008: j_slide
+    100010: j_switch
+    100012: j_trigger
+    100014: Joints
+    100016: //RootNode
+    100018: tag_acog_2
+    100020: tag_align_gun
+    100022: tag_barrel_attach
+    100024: tag_brass
+    100026: tag_cosmetic
+    100028: tag_folding_grip
+    100030: tag_holo
+    100032: tag_hybrid
+    100034: tag_ik_loc_le
+    100036: tag_ik_loc_ri
+    100038: tag_laser_attach
+    100040: tag_mag_attach
+    100042: tag_pistolgrip_attach
+    100044: tag_rail_attach
+    100046: tag_rail_hide
+    100048: tag_reflex
+    100050: tag_reticle_invis
+    100052: tag_scope
+    100054: tag_sight_on
+    100056: tag_sling
+    100058: tag_stock_attach
+    100060: tag_stock_hide
+    100062: tag_weapon_focus
+    100064: WraithMesh_ed18a85b_00
+    100066: WraithMesh_ed18a85b_01
+    100068: WraithMesh_ed18a85b_02
+    100070: WraithMesh_ed18a85b_03
+    100072: WraithMesh_ed18a85b_04
+    100074: WraithMesh_ed18a85b_05
+    400000: attachment_vm_sm_papa90_receiver_v2_LOD0
+    400002: j_bolt
+    400004: j_gun
+    400006: j_mag_rel
+    400008: j_slide
+    400010: j_switch
+    400012: j_trigger
+    400014: Joints
+    400016: //RootNode
+    400018: tag_acog_2
+    400020: tag_align_gun
+    400022: tag_barrel_attach
+    400024: tag_brass
+    400026: tag_cosmetic
+    400028: tag_folding_grip
+    400030: tag_holo
+    400032: tag_hybrid
+    400034: tag_ik_loc_le
+    400036: tag_ik_loc_ri
+    400038: tag_laser_attach
+    400040: tag_mag_attach
+    400042: tag_pistolgrip_attach
+    400044: tag_rail_attach
+    400046: tag_rail_hide
+    400048: tag_reflex
+    400050: tag_reticle_invis
+    400052: tag_scope
+    400054: tag_sight_on
+    400056: tag_sling
+    400058: tag_stock_attach
+    400060: tag_stock_hide
+    400062: tag_weapon_focus
+    400064: WraithMesh_ed18a85b_00
+    400066: WraithMesh_ed18a85b_01
+    400068: WraithMesh_ed18a85b_02
+    400070: WraithMesh_ed18a85b_03
+    400072: WraithMesh_ed18a85b_04
+    400074: WraithMesh_ed18a85b_05
+    2100000: weapon_vm_sm_papa90_v2_body
+    2100002: weapon_vm_sm_papa90_v2_rail
+    2100004: weapon_vm_sm_papa90_sights
+    2300000: WraithMesh_ed18a85b_00
+    2300002: WraithMesh_ed18a85b_01
+    2300004: WraithMesh_ed18a85b_02
+    2300006: WraithMesh_ed18a85b_03
+    2300008: WraithMesh_ed18a85b_04
+    2300010: WraithMesh_ed18a85b_05
+    3300000: WraithMesh_ed18a85b_00
+    3300002: WraithMesh_ed18a85b_01
+    3300004: WraithMesh_ed18a85b_02
+    3300006: WraithMesh_ed18a85b_03
+    3300008: WraithMesh_ed18a85b_04
+    3300010: WraithMesh_ed18a85b_05
+    4300000: WraithMesh_ed18a85b_00
+    4300002: WraithMesh_ed18a85b_01
+    4300004: WraithMesh_ed18a85b_02
+    4300006: WraithMesh_ed18a85b_03
+    4300008: WraithMesh_ed18a85b_04
+    4300010: WraithMesh_ed18a85b_05
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

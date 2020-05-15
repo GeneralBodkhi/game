@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 9ddd73aa4831b2e419aa2aea7341cc4f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: attachment_vm_sm_papa90_mag_v11_LOD0
+    100002: j_bullet_01
+    100004: j_bullet_02
+    100006: j_bullet_03
+    100008: j_bullet_04
+    100010: j_bullet_05
+    100012: j_bullet_06
+    100014: j_bullets_01
+    100016: j_bullets_010
+    100018: j_bullets_011
+    100020: j_bullets_012
+    100022: j_bullets_013
+    100024: j_bullets_014
+    100026: j_bullets_015
+    100028: j_bullets_016
+    100030: j_bullets_017
+    100032: j_bullets_018
+    100034: j_bullets_019
+    100036: j_bullets_02
+    100038: j_bullets_020
+    100040: j_bullets_021
+    100042: j_bullets_022
+    100044: j_bullets_03
+    100046: j_bullets_04
+    100048: j_bullets_05
+    100050: j_bullets_06
+    100052: j_bullets_07
+    100054: j_bullets_08
+    100056: j_bullets_09
+    100058: j_mag1
+    100060: j_mag2
+    100062: j_mag_pusher
+    100064: j_mag_spring
+    100066: Joints
+    100068: //RootNode
+    100070: tag_clip
+    100072: tag_mag_attach
+    100074: tag_mag_spring_hide
+    100076: WraithMesh_68815ae4_00
+    100078: WraithMesh_68815ae4_01
+    100080: WraithMesh_68815ae4_02
+    100082: WraithMesh_68815ae4_03
+    100084: WraithMesh_68815ae4_04
+    400000: attachment_vm_sm_papa90_mag_v11_LOD0
+    400002: j_bullet_01
+    400004: j_bullet_02
+    400006: j_bullet_03
+    400008: j_bullet_04
+    400010: j_bullet_05
+    400012: j_bullet_06
+    400014: j_bullets_01
+    400016: j_bullets_010
+    400018: j_bullets_011
+    400020: j_bullets_012
+    400022: j_bullets_013
+    400024: j_bullets_014
+    400026: j_bullets_015
+    400028: j_bullets_016
+    400030: j_bullets_017
+    400032: j_bullets_018
+    400034: j_bullets_019
+    400036: j_bullets_02
+    400038: j_bullets_020
+    400040: j_bullets_021
+    400042: j_bullets_022
+    400044: j_bullets_03
+    400046: j_bullets_04
+    400048: j_bullets_05
+    400050: j_bullets_06
+    400052: j_bullets_07
+    400054: j_bullets_08
+    400056: j_bullets_09
+    400058: j_mag1
+    400060: j_mag2
+    400062: j_mag_pusher
+    400064: j_mag_spring
+    400066: Joints
+    400068: //RootNode
+    400070: tag_clip
+    400072: tag_mag_attach
+    400074: tag_mag_spring_hide
+    400076: WraithMesh_68815ae4_00
+    400078: WraithMesh_68815ae4_01
+    400080: WraithMesh_68815ae4_02
+    400082: WraithMesh_68815ae4_03
+    400084: WraithMesh_68815ae4_04
+    2100000: weapon_vm_sm_papa90_v11_mag
+    2300000: WraithMesh_68815ae4_00
+    2300002: WraithMesh_68815ae4_01
+    2300004: WraithMesh_68815ae4_02
+    2300006: WraithMesh_68815ae4_03
+    2300008: WraithMesh_68815ae4_04
+    3300000: WraithMesh_68815ae4_00
+    3300002: WraithMesh_68815ae4_01
+    3300004: WraithMesh_68815ae4_02
+    3300006: WraithMesh_68815ae4_03
+    3300008: WraithMesh_68815ae4_04
+    4300000: WraithMesh_68815ae4_00
+    4300002: WraithMesh_68815ae4_01
+    4300004: WraithMesh_68815ae4_02
+    4300006: WraithMesh_68815ae4_03
+    4300008: WraithMesh_68815ae4_04
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

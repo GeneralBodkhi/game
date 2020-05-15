@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x0,weapon_vm_sm_papa90_v11_sightcust_c&weapon_vm_sm_papa90_v11_sightcust_s~15594800929218317623
+unk_semantic_0x9,weapon_vm_sm_papa90_v11_sightcust_n&weapon_vm_sm_papa90_v11_sightcust_g~12763491294965399886
+unk_semantic_0x3B,$black

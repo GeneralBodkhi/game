@@ -1,0 +1,6 @@
+newmtl weapon_vm_sm_papa90_glass_ads
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd ..\\_images\\weapon_vm_sm_papa90_glass_ads_c&weapon_vm_sm_papa90_glass_ads_s~10705911579467116445.dds
